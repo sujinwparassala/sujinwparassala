@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujinw1994
 - 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...django,android apps developing
+- 🌱 I’m currently learning ...django,docker developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail
 
