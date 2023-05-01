@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujinw1994
-- 👀 I’m interested in ...learning
+- 👀 I’m interested to ...learning new
 - 🌱 I’m currently learning ...django,docker developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail
